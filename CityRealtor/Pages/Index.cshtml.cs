@@ -19,7 +19,7 @@ namespace CityRealtor.Pages
         {
            Homes = _homeService.GetHomes();
 
-            ThresholdPrice = 400000;
+           ThresholdPrice = 400000;
         }
     }
 }
