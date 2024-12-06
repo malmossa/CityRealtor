@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CityRealtor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b2f5313c9278d498f5e305e7bc884097cce6fe2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3479baddee2cb82efe0da31f2462730fb8e79a27")]
 [assembly: System.Reflection.AssemblyProductAttribute("CityRealtor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CityRealtor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

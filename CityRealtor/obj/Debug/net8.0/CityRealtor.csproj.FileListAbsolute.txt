@@ -27,3 +27,5 @@ C:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\refint\CityRealtor.dll
 C:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\CityRealtor.pdb
 C:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\CityRealtor.genruntimeconfig.cache
 C:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\ref\CityRealtor.dll
+c:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\CityRealtor.RazorAssemblyInfo.cache
+c:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\CityRealtor.RazorAssemblyInfo.cs
