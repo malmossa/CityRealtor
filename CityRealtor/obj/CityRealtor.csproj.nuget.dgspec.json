@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\malmo\\CityRealtor\\CityRealtor\\CityRealtor.csproj": {}
+    "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\CityRealtor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\malmo\\CityRealtor\\CityRealtor\\CityRealtor.csproj": {
+    "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\CityRealtor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\malmo\\CityRealtor\\CityRealtor\\CityRealtor.csproj",
+        "projectUniqueName": "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\CityRealtor.csproj",
         "projectName": "CityRealtor",
-        "projectPath": "C:\\Users\\malmo\\CityRealtor\\CityRealtor\\CityRealtor.csproj",
+        "projectPath": "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\CityRealtor.csproj",
         "packagesPath": "C:\\Users\\malmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\malmo\\CityRealtor\\CityRealtor\\obj\\",
+        "outputPath": "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
