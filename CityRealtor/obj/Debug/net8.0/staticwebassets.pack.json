@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CityRealtor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CityRealtor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CityRealtor.props",
+      "PackagePath": "build\\CityRealtor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CityRealtor.props",
+      "PackagePath": "buildMultiTargeting\\CityRealtor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CityRealtor.props",
+      "PackagePath": "buildTransitive\\CityRealtor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

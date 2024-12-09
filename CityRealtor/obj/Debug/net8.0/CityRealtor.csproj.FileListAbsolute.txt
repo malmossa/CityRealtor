@@ -29,3 +29,4 @@ C:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\CityRealtor.genruntimeco
 C:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\ref\CityRealtor.dll
 c:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\CityRealtor.RazorAssemblyInfo.cache
 c:\Users\malmo\CityRealtor\CityRealtor\obj\Debug\net8.0\CityRealtor.RazorAssemblyInfo.cs
+c:\Users\malmo\CityRealtor\CityRealtor\bin\Debug\net8.0\CityRealtor.staticwebassets.runtime.json
