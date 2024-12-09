@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "uYLbdgyBJKzQ8tb5KfEmat5Qna9hNOcFFa+n1CRQ2Ik=",
+  "Hash": "ynjqStqbDEsX9YYI1+NsqFJCeIiSzZIPK3B8C4G8qYc=",
   "Source": "CityRealtor",
   "BasePath": "_content/CityRealtor",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "CityRealtor\\wwwroot",
+      "Source": "CityRealtor",
+      "ContentRoot": "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\wwwroot\\",
+      "BasePath": "_content/CityRealtor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\wwwroot\\css\\site.css",
+      "SourceId": "CityRealtor",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\wwwroot\\",
+      "BasePath": "_content/CityRealtor",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0nd1sfwzzu",
+      "Integrity": "tAwCS4z3uAboNH+D0mDOsHAtB7wvpmD4PkQzIp6qtzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.0nd1sfwzzu.css",
+      "AssetFile": "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tAwCS4z3uAboNH+D0mDOsHAtB7wvpmD4PkQzIp6qtzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 16:06:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0nd1sfwzzu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tAwCS4z3uAboNH+D0mDOsHAtB7wvpmD4PkQzIp6qtzE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "c:\\Users\\malmo\\CityRealtor\\CityRealtor\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tAwCS4z3uAboNH+D0mDOsHAtB7wvpmD4PkQzIp6qtzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 16:06:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tAwCS4z3uAboNH+D0mDOsHAtB7wvpmD4PkQzIp6qtzE="
+        }
+      ]
+    }
+  ]
 }

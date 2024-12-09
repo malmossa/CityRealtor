@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CityRealtor/css/site.0nd1sfwzzu.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0nd1sfwzzu"},{"Name":"integrity","Value":"sha256-tAwCS4z3uAboNH\u002BD0mDOsHAtB7wvpmD4PkQzIp6qtzE="},{"Name":"label","Value":"_content/CityRealtor/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tAwCS4z3uAboNH\u002BD0mDOsHAtB7wvpmD4PkQzIp6qtzE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 16:06:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CityRealtor/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tAwCS4z3uAboNH\u002BD0mDOsHAtB7wvpmD4PkQzIp6qtzE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"70"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tAwCS4z3uAboNH\u002BD0mDOsHAtB7wvpmD4PkQzIp6qtzE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Dec 2024 16:06:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
